@@ -6,10 +6,18 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: Erica_Brooks.jpg
+  image: Erica_Brooks.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>Greenville, SC 29605</p>
+
+
+
+
+
+
+
+
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
