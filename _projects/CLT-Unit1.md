@@ -2,12 +2,10 @@
 layout: page
 title: CLT
 description: Demo of Central Limit Theorem
-img: assets/img/12.jpg
+img: assets/img/CLT.png
 importance: 1
 category: work
 ---
-
-<!DOCTYPE html>
 
 <html>
 
