@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: “The key to artificial intelligence has always been the representation.”
 
 profile:
   align: right
@@ -27,13 +27,5 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm Erica. I'm from South Carolina.
 
-
-
 “The other tabs represent work / analyses that I have completed.  Please check them out!”
 
-
-
-
-
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
