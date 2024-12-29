@@ -9,7 +9,7 @@ profile:
   image: Erica_Brooks.JPG
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Greenville, SC 29605</p>
+    <p>Greenville, SC</p>
 
 
 
