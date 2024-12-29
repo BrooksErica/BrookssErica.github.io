@@ -7,7 +7,7 @@ subtitle: “The key to artificial intelligence has always been the representati
 profile:
   align: right
   image: Erica_Brooks.JPG
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Greenville, SC</p>
 
