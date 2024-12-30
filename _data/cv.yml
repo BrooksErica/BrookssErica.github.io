@@ -41,17 +41,11 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
+            
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://brookserica.github.io/">al-folio</a>
+    - title: <a href="https://brookserica.github.io/">Erica Brooks</a>
       year: 2023-now
       description: A beautiful, simple, and clean portfolio.
 
@@ -64,17 +58,13 @@
         - Matteucci Medal
   
 - title: Academic Interests
-  type: Machine Learning, AI Control
+  type: time_table
   contents:
-    - title: Topic 1.
+    - title: Machine Learning, AI Control.
       items: 
         - Description 1.
         - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
+        
 - title: Other Interests
   type: list
   contents:
